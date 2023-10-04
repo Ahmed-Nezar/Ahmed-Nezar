@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGgkvZXqLQn_A/profile-displaybackgroundimage-shrink_350_1400/0/1695741515909?e=1701907200&v=beta&t=2IxqvSdZFNRzK0STN_sAJFb_BNSXLVDwE7MPGN1ieSA)]()
 <h1 align="center">Hi 👋, I'm Ahmed Nezar</h1>
 <h3 align="center">A passionate Data Scientist, Machine Learning & Deep Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
