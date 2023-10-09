@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nezar</h1>
 <h3 align="center">A passionate Data Scientist, Machine Learning & Deep Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-nezar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-nezar" /> </p>
 
 - 🌱 I’m currently learning **AI & Deep Learning**
@@ -9,7 +7,7 @@
 - 💬 Ask me about **AI, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ahmednezarrr@gmail.com**
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1WqvydjsNgkVqqR0hf3HQDq_7ow4SpywB/view?usp=sharing)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1WqvydjsNgkVqqR0hf3HQDq_7ow4SpywB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
