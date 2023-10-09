@@ -9,6 +9,7 @@
 - 💬 Ask me about **AI, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ahmednezarrr@gmail.com**
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1WqvydjsNgkVqqR0hf3HQDq_7ow4SpywB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
