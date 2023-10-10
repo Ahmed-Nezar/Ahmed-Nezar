@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nezar</h1>
 <h3 align="center">A passionate Data Scientist, Machine Learning & Deep Learning Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-nezar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-nezar" /> </p>
 
 - 🌱 I’m currently learning **AI & Deep Learning**
 
