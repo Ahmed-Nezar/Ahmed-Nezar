@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **AI & Deep Learning**
 
-- 👨‍💻 All of my projects are available [here.](https://ahmed-nezar.github.io/Ahmed-Nezar/)
+- 👨‍💻 All of my projects are available [here.](https://ahmed-nezar.github.io/Portfolio/)
 
 - 💬 Ask me about **AI, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ahmednezarrr@gmail.com**
 
-- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1-RtcrZIwkMM2bR6ZoU6BBj_GKxvyWKy6/view?usp=sharing)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1ttNu1Eyybiv66D8a8nMnpxLiJuBI8vtu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
