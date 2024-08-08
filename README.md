@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio & CV [here.](https://ahmed-nezar.github.io/Portfolio/)
 
-- 💬 Utilized the use of frameworks like **PyTorch, TensorFlow, Selenuim, Django, Flask, and JUnit**.
+- 💬 Utilized the use of frameworks like **Scikit Learn, PyTorch, TensorFlow, Selenuim, Django, Flask, and JUnit**.
 
 - 📫 How to reach me **ahmednezarrr@gmail.com**
 
