@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nezar</h1>
-<h3 align="center">A passionate AI & Software Engineer</h3>
+<h3 align="center">A passionate ML & AI Engineer</h3>
 
 - 🌱 Has Experience in **Machine Learning, Deep Learning, and Generative AI**.
 
