@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nezar</h1>
-<h3 align="center">A passionate ML & AI Engineer</h3>
+<h3 align="center">A passionate ML & Software Engineer</h3>
 
-- 🌱 Has Experience in **Machine Learning, Deep Learning, and Generative AI**.
+- 🌱 Has Experience in **Machine Learning, Deep Learning, Generative AI and Software Engineering**.
 
 - 👨‍💻 My Portfolio & CV [here.](https://ahmed-nezar.github.io/Portfolio/)
 
